@@ -23,9 +23,9 @@ Click the "Generate Random Photo" button to display a random image.
 Setup
 Download all the files:
 
->>>> password-photo-generator.html
->>>> style.css
->>>> script.js
+password-photo-generator.html
+style.css
+script.js
 Place them in the same directory.
 
 Open password-photo-generator.html in your web browser to run the application.
